@@ -1,0 +1,16 @@
+{
+  "name": "firebase",
+  "version": "1.0.0",
+  "description": "Learning to make a firebase chat program",
+  "main": "index.js",
+  "scripts": {
+    "start": "reload -b --port 8050"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.1.0",
+    "reload": "^2.3.0"
+  },
+  "devDependencies": {}
+}
